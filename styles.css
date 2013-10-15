@@ -134,6 +134,13 @@ td.description {
   text-align: justify;
 }
 
+ul.skills {
+  margin-left: 15px;
+  padding-left: 0px;
+  margin-bottom: 10px;
+  text-align: justify;
+}
+
 i.icon-star {
   color: #f07300;  
 }
