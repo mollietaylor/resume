@@ -125,6 +125,10 @@ ul.side li {
   font-family: "freight-text-pro"; font-weight: 400; 
 }
 
+ul.skills li {
+  margin-left: 6;
+}
+
 table.category {
   padding-bottom: 20px;
 }
