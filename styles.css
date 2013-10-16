@@ -44,6 +44,20 @@ h2.name {
   margin-top: 0px;
 }
 
+h1.pdf {
+  color: #000;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 36px;
+  font-weight: 500; 
+}
+
+h2.pdf {
+  color: #000;
+  font-weight: 500; 
+  margin-top: 0px;
+}
+
 h2 {
   color: #181311;
   font-size: 24px;
@@ -83,6 +97,14 @@ td#right {
   padding-left: 30px;
   padding-right: 30px;
   width: 550px;
+}
+
+/*for PDF version:*/
+td#right {
+  text-align: left;
+  vertical-align: text-top;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 button {
