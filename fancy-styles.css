@@ -1,0 +1,95 @@
+/*fix: 
+*/
+
+
+h1 {
+  color: #aba4ac;
+  font-family: "freight";
+  font-size: 22px;
+  margin: 10px;
+  text-align: center;
+  font-family: "freight-display-pro"; font-style: normal; font-weight: 400; 
+}
+
+h1#name {
+  color: #fff;
+  font-size: 30px;
+}
+
+div#topbar {
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  margin: -10px;
+  margin-bottom: 20px;
+  background: black;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+#restofpage {
+  background-color: black;
+}
+
+div#body {
+  position: absolute;
+  left: 220;  
+  margin: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+div.category {
+  border: 1px solid #fff;
+  padding: 10px;
+  top: auto;
+  bottom: auto;
+}
+
+div.category:hover {
+  border: 1px dashed #ccc;
+}
+
+img {
+  padding: 5px;
+}
+
+p {
+  font-style: italic;
+  font-family: "freight-text-pro"; 
+  font-weight: 400; 
+  color: #fff;
+}
+
+
+#navbar {
+  margin: 0px;
+  padding: 5px;
+  width: 200px;
+  background:#cccccc;
+  float: left;
+  position: fixed;
+}
+
+#navbar ul {
+  margin: 0;
+  padding: 0;
+}
+
+#navbar li {
+  display: block;
+  margin: 10px;
+  font-family: "freight-text-pro"; font-weight: 400; 
+}
+
+
+div#bottom {
+  text-align: center;
+  clear:both;
+  position: fixed;
+  left: 220;
+  right: 0;
+  bottom: 0;
+  background-color: #fff;
+}
